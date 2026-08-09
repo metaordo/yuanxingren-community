@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- 玄色盾牌主体：圆肩 + 尖底 -->
+  <path d="M16 2 L28 5.5 V15 C28 21.5 22.5 27 16 30 C9.5 27 4 21.5 4 15 V5.5 Z"
+        fill="#0f1115" stroke="#e53834" stroke-width="1" stroke-linejoin="round"/>
+  <!-- 中央红色刃光：竖直锋形 -->
+  <path d="M16 6.5 L17.6 16 L16 25.5 L14.4 16 Z" fill="#e53834"/>
+  <!-- 刃光高亮：靠左一线点亮反光感 -->
+  <path d="M16 6.5 L15.6 16 L16 25.5 L14.4 16 Z" fill="#ff6b6b" opacity="0.55"/>
+</svg>
